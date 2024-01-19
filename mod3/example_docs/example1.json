@@ -1,0 +1,34 @@
+{
+    "submission_id": "123456789",
+    "student_id": "987654321",
+    "submission_time": "2024-01-18T12:30:00Z",
+    "document_details": {
+      "document_title": "Research Paper on Artificial Intelligence",
+      "document_author": "David Smith",
+      "document_language": "English",
+      "document_file_format": "PDF",
+      "document_word_count": 1510
+    },
+    "plagiarism_check": {
+      "check_time": "2024-01-18T13:00:00Z",
+      "plagiarism_tool": "Turnitin",
+      "plagiarism_percentage": "12.5",
+      "matches": [
+        {
+          "source_document_title": "Advancements in AI Technologies",
+          "source_document_author": "Emma Johnson",
+          "source_document_percentage": "8.3",
+          "match_details": "Similarity found in the introduction section."
+        },
+        {
+          "source_document_title": "The Impact of Artificial Intelligence on Society",
+          "source_document_author": "Michael Williams",
+          "source_document_percentage": "4.2",
+          "match_details": "Common phrases found in the conclusion."
+        }
+      ]
+    },
+    "report_status": "complete",
+    "additional_comments": "The plagiarism check was performed using Turnitin and the results are within an acceptable range."
+  }
+  

@@ -1,0 +1,31 @@
+/* style.css */
+* {
+    font-family: 'Liberation Sans';
+}
+
+table {
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.summary {
+    width: 50%;
+}
+
+table.issue{
+    border: 0;
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+table.issue td,
+table.issue th {
+    border: 0;
+    text-align: left;
+    padding: 5px;
+}
+
+table.issue tr {
+border-bottom: 1px solid #dddddd;
+}
